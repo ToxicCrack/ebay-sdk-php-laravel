@@ -1,11 +1,9 @@
 # eBay SDK for PHP
 
-This is a fork of the original [dts/ebay-sdk-php](https://github.com/davidtsadler/ebay-sdk-php) by [@davidtsadler](https://github.com/davidtsadler), with support for PHP 7.3, PHP 7.4 and PHP 8, and compatibility with Guzzle 7.
+This is a fork of [BenMorel/ebay-sdk-php](https://github.com/BenMorel/ebay-sdk-php) by [@benmorel](https://github.com/BenMorel) which is a fork of the original [dts/ebay-sdk-php](https://github.com/davidtsadler/ebay-sdk-php) by [@davidtsadler](https://github.com/davidtsadler), with support for PHP 7.3, PHP 7.4 and PHP 8, and compatibility with Laravel 10.
 
 The original project has been officially abandoned in February 2020.
 
-**I'm planning to maintain this fork in the short term.** The aim is not to keep it up to date with the latest eBay API versions,
-but to provide a solution for a smooth upgrade of existing apps to PHP 8. New users should seek a better SDK for PHP.
 
 [![Build Status](https://github.com/benmorel/ebay-sdk-php/workflows/CI/badge.svg)](https://github.com/benmorel/ebay-sdk-php/actions)
 [![Latest Stable Version](https://poser.pugx.org/benmorel/ebay-sdk-php/v/stable)](https://packagist.org/packages/benmorel/ebay-sdk-php)
@@ -36,7 +34,7 @@ This is a personal project that was originally developed by David T. Sadler, who
 The SDK can be installed with [Composer](http://getcomposer.org/):
 
 ```
-composer require benmorel/ebay-sdk-php
+composer require toxiccrack/ebay-sdk-php-laravel
 ```
 
 ## Example
