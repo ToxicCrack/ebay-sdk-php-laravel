@@ -16,7 +16,8 @@
         },
         {
           "name": "Daniel Lichtblau",
-          "email": "info@lichtblau-it.de"
+          "email": "info@lichtblau-it.de",
+          "homepage": "http://www.lichtblau-it.de"
         }
     ],
     "require": {
