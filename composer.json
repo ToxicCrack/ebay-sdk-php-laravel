@@ -1,5 +1,5 @@
 {
-    "name": "toxiccrack/ebay-sdk-php",
+    "name": "toxiccrack/ebay-sdk-php-laravel",
     "description": "An eBay SDK for PHP. Fork of dts/ebay-sdk-php with support for PHP 8 and Laravel 10.",
     "keywords": ["ebay", "api", "sdk"],
     "type": "library",
